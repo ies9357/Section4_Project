@@ -22,7 +22,7 @@ ex). 환자의 오인으로 인해 폐질환을 가진 환자가 코로나 선�
     1. 출처 : [https://bit.ly/3U0FYUY](https://bit.ly/3U0FYUY)
 2. 데이터 종류 : 4가지 상태의 흉부 X-ray 이미지
 
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6106406d-16fc-4128-8f11-f1957fb0c49e/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/102272580/203721127-e310187b-bcb4-4598-83f5-471d6fe3700a.png)
 
 3. 데이터 크기(pixels) : 299(높이) X 299(너비)
 4. 라벨 별 데이터 개수
@@ -40,7 +40,7 @@ ex). 환자의 오인으로 인해 폐질환을 가진 환자가 코로나 선�
         2. COVID : 라벨 비율의 17.1% 밖에 차지하지 못함
             1. 불균형 데이터임을 알 수 있음
 
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7eb4feb5-2732-4b19-acb9-55cf1c4f5ae3/Untitled.png)
+        ![image](https://user-images.githubusercontent.com/102272580/203721277-54d5deff-7e4e-45b4-aaa3-ef0eefaf64a5.png)
 
 
 
@@ -53,7 +53,7 @@ ex). 환자의 오인으로 인해 폐질환을 가진 환자가 코로나 선�
 
 2. 제작한 딥러닝 모델을 이용한 이미지 분류
 
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bad1b146-0065-4d3d-a93c-5dc25e0bde6e/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/102272580/203722374-0d165171-6884-4796-be15-7f0f1867d91b.png)
 
 3. 딥러닝 분류 결과에 맞는 병원 방문 및 치료법 적용
 
